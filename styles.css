@@ -1,0 +1,116 @@
+* {
+    background-color: rgb(34, 129, 167);
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+   text-align: left;
+}
+
+h4 {
+    text-align: left;
+}
+
+
+.logo {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100px;
+    height: 100px;
+}
+
+.battingpic {
+    position: absolute;
+    right: 42.5%;
+    top: 450px;
+    width: 200px;
+    height: 150px;
+}
+
+.teamcheer {
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 5%;
+    top: 450px;
+}
+
+.teampic {
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    right: 5%;
+    top: 450px;
+}
+
+.rules {
+    background-color:  rgb(34, 129, 167);
+}
+
+.team {
+    background-color:  rgb(34, 129, 167);
+}
+
+.association {
+    background-color:  rgb(34, 129, 167);
+}
+
+.about {
+    background-color:  rgb(34, 129, 167);
+}
+
+.fieldpositions {
+    position: absolute;
+    left: 11%;
+    top: 350px;
+    width: 400px;
+    height: 250px;
+}
+
+.diamond {
+    position: absolute;
+    left: 60%;
+    top: 350px;
+    width: 400px;
+    height: 250px;
+}
+
+.provincials {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 250px;
+}
+
+.win {
+    text-align: center;
+}
+
+.lgsalogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 250px;
+}
+
+.walking2 {
+    position: absolute;
+    left: 11%;
+    top: 350px;
+    width: 400px;
+    height: 250px;
+}
+
+.grounder {
+    position: absolute;
+    left: 60%;
+    top: 350px;
+    width: 400px;
+    height: 250px;
+}
